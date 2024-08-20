@@ -1,0 +1,5 @@
+*.pyc
+*.csv
+.flake8
+logs/
+data/

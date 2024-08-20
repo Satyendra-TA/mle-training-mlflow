@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 17,
+    "python.defaultInterpreterPath": "~/miniconda3/envs/mle-dev/bin/python",
+    "python.analysis.autoImportCompletions": true,
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "always"
+        }
+    }
+}
