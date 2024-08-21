@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/Notebook/mlruns/195843194857294316/0e189fb01e4a4ea4b95d2e13c997f931/artifacts
+end_time: 1724220258884
+entry_point_name: ''
+experiment_id: '195843194857294316'
+lifecycle_stage: active
+run_id: 0e189fb01e4a4ea4b95d2e13c997f931
+run_name: melodic-shoat-925
+run_uuid: 0e189fb01e4a4ea4b95d2e13c997f931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724220255202
+status: 3
+tags: []
+user_id: saty

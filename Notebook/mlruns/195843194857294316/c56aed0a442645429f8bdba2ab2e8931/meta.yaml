@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/Notebook/mlruns/195843194857294316/c56aed0a442645429f8bdba2ab2e8931/artifacts
+end_time: 1724220250866
+entry_point_name: ''
+experiment_id: '195843194857294316'
+lifecycle_stage: active
+run_id: c56aed0a442645429f8bdba2ab2e8931
+run_name: unruly-roo-172
+run_uuid: c56aed0a442645429f8bdba2ab2e8931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724220247306
+status: 3
+tags: []
+user_id: saty

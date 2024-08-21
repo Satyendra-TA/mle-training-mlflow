@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/Notebook/mlruns/0/b1e0c239192447559f619d08b8ca84bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1e0c239192447559f619d08b8ca84bb
+run_name: orderly-rook-163
+run_uuid: b1e0c239192447559f619d08b8ca84bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724222001884
+status: 1
+tags: []
+user_id: saty

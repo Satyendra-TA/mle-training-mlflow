@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/Notebook/mlruns/195843194857294316/536fac7ab53440a5a2ba0620d8f324aa/artifacts
+end_time: 1724222287026
+entry_point_name: ''
+experiment_id: '195843194857294316'
+lifecycle_stage: active
+run_id: 536fac7ab53440a5a2ba0620d8f324aa
+run_name: intrigued-skunk-217
+run_uuid: 536fac7ab53440a5a2ba0620d8f324aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724222283169
+status: 3
+tags: []
+user_id: saty

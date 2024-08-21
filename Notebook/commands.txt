@@ -1,0 +1,22 @@
+# To launch a mlflow server
+mlflow server --backend-store-uri mlruns/ \
+              --default-artifact-root mlruns/ \
+              --host "hostUrl" --port "portNumber"
+
+
+# to launch mlflow ui
+mlflow ui --host "hostUrl" -- port "portNumber"
+
+# to run a mlflow project with MLproject file
+mlflow run . -P alpha=0.0042
+
+# To deploy a model (requires pyenv and virtualenv libraries) (if results in issues due to conda the specify the flag --no-conda)
+mlflow models serve -m mlruns/195843194857294316/536fac7ab53440a5a2ba0620d8f324aa/artifacts/ElasticNetModel/ \
+                    -h 0.0.0.0 -p 1234
+
+# send a curl request to the model serve
+bash curl_request.sh
+
+# build a docker image from the mlflow model
+mlflow models build-docker -m mlruns/195843194857294316/536fac7ab53440a5a2ba0620d8f324aa/artifacts/ElasticNetModel/ \
+                           -n elastic_net_wine_image

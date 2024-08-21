@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/Notebook/mlruns/195843194857294316/64277005834f486ab64c6826a606f8db/artifacts
+end_time: 1724220262192
+entry_point_name: ''
+experiment_id: '195843194857294316'
+lifecycle_stage: active
+run_id: 64277005834f486ab64c6826a606f8db
+run_name: carefree-snake-582
+run_uuid: 64277005834f486ab64c6826a606f8db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724220259147
+status: 3
+tags: []
+user_id: saty

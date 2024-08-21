@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/Notebook/mlruns/0/6a74b164a5194b8e9c72a8b7c093aa65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a74b164a5194b8e9c72a8b7c093aa65
+run_name: abundant-mouse-809
+run_uuid: 6a74b164a5194b8e9c72a8b7c093aa65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724221347441
+status: 1
+tags: []
+user_id: saty
