@@ -1,0 +1,16 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/mlruns/372538839548911639/3006a10c09b246179f1ca5dcaa447098/artifacts
+deleted_time: 1724344810735
+end_time: 1724339675546
+entry_point_name: ''
+experiment_id: '372538839548911639'
+lifecycle_stage: deleted
+run_id: 3006a10c09b246179f1ca5dcaa447098
+run_name: Linear_Regression
+run_uuid: 3006a10c09b246179f1ca5dcaa447098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339674766
+status: 4
+tags: []
+user_id: saty
