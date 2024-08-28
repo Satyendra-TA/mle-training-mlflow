@@ -1,3 +1,5 @@
+.gitignore
+.env
 *.pyc
 *.csv
 .flake8

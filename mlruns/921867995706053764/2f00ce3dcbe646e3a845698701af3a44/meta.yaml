@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/mlruns/921867995706053764/2f00ce3dcbe646e3a845698701af3a44/artifacts
+end_time: 1724670307704
+entry_point_name: ''
+experiment_id: '921867995706053764'
+lifecycle_stage: active
+run_id: 2f00ce3dcbe646e3a845698701af3a44
+run_name: data_ingestion_and_preprocessing
+run_uuid: 2f00ce3dcbe646e3a845698701af3a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724670306149
+status: 3
+tags: []
+user_id: saty

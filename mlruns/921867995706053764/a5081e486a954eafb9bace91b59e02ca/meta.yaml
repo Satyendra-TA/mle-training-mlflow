@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/satyendra.mishra/Work/mle-training-mlflow/mlruns/921867995706053764/a5081e486a954eafb9bace91b59e02ca/artifacts
+end_time: 1724670447459
+entry_point_name: ''
+experiment_id: '921867995706053764'
+lifecycle_stage: active
+run_id: a5081e486a954eafb9bace91b59e02ca
+run_name: Random_Forest_best_model
+run_uuid: a5081e486a954eafb9bace91b59e02ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724670323077
+status: 3
+tags: []
+user_id: saty

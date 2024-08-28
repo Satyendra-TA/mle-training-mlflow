@@ -1,0 +1,14 @@
+digest: 22f8b189
+name: dataset
+profile: '{"num_rows": 15480, "num_elements": 154800}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "longitude", "required": true},
+  {"type": "double", "name": "latitude", "required": true}, {"type": "double", "name":
+  "housing_median_age", "required": true}, {"type": "double", "name": "total_rooms",
+  "required": true}, {"type": "double", "name": "total_bedrooms", "required": true},
+  {"type": "double", "name": "population", "required": true}, {"type": "double", "name":
+  "households", "required": true}, {"type": "double", "name": "median_income", "required":
+  true}, {"type": "double", "name": "median_house_value", "required": true}, {"type":
+  "string", "name": "ocean_proximity", "required": true}]}'
+source: '{"tags": {"mlflow.user": "saty", "mlflow.source.name": "src/house_price_predictor/main.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "d68abab5768ad5ffbfdcea5f2f5ad6d28dfe4dc9"}}'
+source_type: code
